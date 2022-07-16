@@ -1,3 +1,3 @@
-module github.com/pankif/paths
+module github.com/pankif/pathes
 
 go 1.18
